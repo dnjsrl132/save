@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\sumso\source\repos\Project8\Project8\소스.cpp(20,6): warning C4101: 'category' :참조되지 않은 지역 변수입니다.
+  Project8.vcxproj -> C:\Users\sumso\source\repos\Project8\Debug\Project8.exe
