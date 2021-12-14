@@ -1,0 +1,4 @@
+﻿  ConsoleApplication3.cpp
+c:\users\sumso\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(10): warning C4101: 'cha' :참조되지 않은 지역 변수입니다.
+c:\users\sumso\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(12): warning C4101: 'flo' :참조되지 않은 지역 변수입니다.
+  ConsoleApplication3.vcxproj -> C:\Users\sumso\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe
