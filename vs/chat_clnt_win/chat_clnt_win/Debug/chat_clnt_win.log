@@ -1,0 +1,9 @@
+﻿  chat_clnt_win.c
+C:\Users\sumso\source\repos\chat_clnt_win\chat_clnt_win\chat_clnt_win.c(86,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\Users\sumso\source\repos\chat_clnt_win\chat_clnt_win\chat_clnt_win.c(139,22): warning C4047: '==': 'HANDLE'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\sumso\source\repos\chat_clnt_win\chat_clnt_win\chat_clnt_win.c(141,18): warning C4047: '=': 'HANDLE'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\sumso\source\repos\chat_clnt_win\chat_clnt_win\chat_clnt_win.c(143,22): warning C4047: '==': 'HANDLE'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\sumso\source\repos\chat_clnt_win\chat_clnt_win\chat_clnt_win.c(152,7): warning C4101: 'nameMsg' :참조되지 않은 지역 변수입니다.
+C:\Users\sumso\source\repos\chat_clnt_win\chat_clnt_win\chat_clnt_win.c(153,6): warning C4101: 'strLen' :참조되지 않은 지역 변수입니다.
+  chat_clnt_win.vcxproj -> C:\Users\sumso\source\repos\chat_clnt_win\Debug\chat_clnt_win.exe

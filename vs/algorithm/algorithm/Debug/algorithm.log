@@ -1,0 +1,14 @@
+﻿  num1.c
+C:\Users\sumso\source\repos\algorithm\algorithm\num1.c(37,16): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sumso\source\repos\algorithm\algorithm\num1.c(22,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+C:\Users\sumso\source\repos\algorithm\algorithm\num1.c(24,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 'fopen' 선언을 참조하십시오.
+C:\Users\sumso\source\repos\algorithm\algorithm\num1.c(25,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 'fopen' 선언을 참조하십시오.
+C:\Users\sumso\source\repos\algorithm\algorithm\num1.c(27,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : 'fscanf' 선언을 참조하십시오.
+C:\Users\sumso\source\repos\algorithm\algorithm\num1.c(30,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : 'fscanf' 선언을 참조하십시오.
+C:\Users\sumso\source\repos\algorithm\algorithm\num1.c(22): warning C4700: 초기화되지 않은 's' 지역 변수를 사용했습니다.
+  algorithm.vcxproj -> C:\Users\sumso\source\repos\algorithm\Debug\algorithm.exe

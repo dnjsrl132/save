@@ -1,0 +1,9 @@
+﻿  chat_serv_win.c
+C:\Users\sumso\source\repos\chat_serv_win\chat_serv_win\chat_serv_win.c(70,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\Users\sumso\source\repos\chat_serv_win\chat_serv_win\chat_serv_win.c(32,31): warning C4101: 'msg' :참조되지 않은 지역 변수입니다.
+C:\Users\sumso\source\repos\chat_serv_win\chat_serv_win\chat_serv_win.c(34,14): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+C:\Users\sumso\source\repos\chat_serv_win\chat_serv_win\chat_serv_win.c(32,20): warning C4101: 'select' :참조되지 않은 지역 변수입니다.
+C:\Users\sumso\source\repos\chat_serv_win\chat_serv_win\chat_serv_win.c(179,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 'sprintf' 선언을 참조하십시오.
+  chat_serv_win.vcxproj -> C:\Users\sumso\source\repos\chat_serv_win\Debug\chat_serv_win.exe
