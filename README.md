@@ -1,5 +1,5 @@
 # save
-dev = c++
-eclips = java
-python = python
-vs = c
+/dev = c++
+/eclips = java
+/python = python
+/vs = c
